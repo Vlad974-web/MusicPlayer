@@ -16,7 +16,8 @@ const chansons = ['coccaina remix', 'Plada - World Hold On', 'Miscris Meqq - ang
  'Olivia Addams - Are We There', 'Steff Da Campo x Chico Rose - 5 On It', 'Embro - I Got This', 
  'Inna - Flashbacks', 'Abro - For The Night',
  'Ислам Италиев - На Нервах', 'Ислам Италиев - Она любимия', 'Ислам Италиев - Сердце не ревнуй', 
- 'Молод и Глуб remix', '2Pac - Ready or Not', 'Trevor Daniel - Falling(DJ FREST Remix)'];
+ 'Молод и Глуб remix', '2Pac - Ready or Not', 'Trevor Daniel - Falling(DJ FREST Remix)'
+];
 
 // Suivre des chansons
 let chansonIndex = 0;

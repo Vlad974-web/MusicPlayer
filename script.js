@@ -9,13 +9,15 @@ const playBtn = document.querySelector('#play');
 const nextBtn = document.querySelector('#next');
 
 // Titres de chansons
-const chansons = ['coccaina remix', 'Plada - World Hold On', 'Miscris Meqq - angels',
- 'Jony - Madame remix', 'Marc Benjamin Moonway -Lovin You', 'La la la remix', 'Love Your Voice', 
- 'One Dance remix', 'Грустный Танец', 'Deepierro Nalyro - Dont Speak', 'Молод и Глуб remix',
- 'Noize Generation - Till The Morning', 'Wthd - Me Up', 'Lonelysoul - Human', 'Esound Fyex - Childhood',
- 'Olivia Addams - Are We There', 'Steff Da Campo x Chico Rose - 5 On It', 'Embro - I Got This', 
- 'Inna - Flashbacks', 'Abro - For The Night',
- 'Ислам Италиев - На Нервах', 'Ислам Италиев - Она любимия', 'Ислам Италиев - Сердце не ревнуй'
+const chansons = ['coccaina remix', 'Munar ft Albin Hasani - Taking Back',
+ 'Plada - World Hold On', 'Miscris Meqq - angels', 'Jony - Madame remix',
+ 'Marc Benjamin Moonway -Lovin You', 'La la la remix', 'Love Your Voice', 'One Dance remix',
+ 'Грустный Танец', 'Deepierro Nalyro - Dont Speak', 'Молод и Глуб remix',
+ 'Noize Generation - Till The Morning', 'Wthd - Me Up', 'Lonelysoul - Human',
+ 'Esound Fyex - Childhood', 'Olivia Addams - Are We There',
+ 'Steff Da Campo x Chico Rose - 5 On It', 'Embro - I Got This', 'Inna - Flashbacks', 
+ 'Abro - For The Night', 'Ислам Италиев - На Нервах', 'Ислам Италиев - Она любимия', 
+ 'Ислам Италиев - Сердце не ревнуй'
 ];
 
 // Suivre des chansons
